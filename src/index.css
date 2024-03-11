@@ -10,4 +10,14 @@ form{
   width: 600px;
   height: 400PX;
   background: rgb(216, 15, 216);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+section{
+  display: flex;
+  flex-direction: column;
+  width: 30%;
 }
